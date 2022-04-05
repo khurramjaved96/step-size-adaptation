@@ -1,2 +1,2 @@
 # step-size-adaptation
-A simple comparison to demonstrate limitation of adam optimizer for non-stationary problems 
+A simple experiment to demonstrate limitation of the adam optimizer on non-stationary problems 
